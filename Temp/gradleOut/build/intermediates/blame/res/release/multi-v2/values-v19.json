@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Project\\Unity Projects\\360VideoPlayer\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sparanj2\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\67bf2058d66cf6ac3a4b623d67dec51f\\res\\values-v19\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "148",
+                        "endColumns": "56",
+                        "endOffsets": "204"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}

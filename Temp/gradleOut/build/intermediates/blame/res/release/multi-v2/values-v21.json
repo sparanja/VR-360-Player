@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Project\\Unity Projects\\360VideoPlayer\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sparanj2\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\67bf2058d66cf6ac3a4b623d67dec51f\\res\\values-v21\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "147",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "237"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "159",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "249"
+                    }
+                },
+                {
+                    "source": "C:\\Project\\Unity Projects\\360VideoPlayer\\Temp\\gradleOut\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}
